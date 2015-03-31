@@ -13,6 +13,7 @@ With a background in Illustration and Animation, I evolved my career to become a
 
 |  Project  | Description |  Website  |
 | :-------: | ----------- | :-------: |
+[Task list](https://github.com/jamesl88/task_list) | Simple task list created using jQuery & Ajax | [Link](http://task-list-24601.herokuapp.com/)
 [Code player](https://github.com/jamesl88/jquery-code-player) | Created a code player using jquery inspired by jsfiddle.net. | [Link](http://jameslieu.co.uk/projects/jquery-code-player/index.html)
 [Weather forecast](https://github.com/jamesl88/weather-forecast) | A simple page which displays the weather forecast of the city you enter. | [Link](http://jameslieu.co.uk/projects/weather-forecast/index.php)
 [Rental yield](https://github.com/jamesl88/rental_yield_calculator) | Calculate The total yearly yield of rent for properties. | [Link](http://rental-yield-24601.herokuapp.com/)
