@@ -28,7 +28,7 @@ With a background in Illustration and Animation, I evolved my career to become a
 **Software Engineer:** `January 2015 - Present`<br />
 [rentify.com](http://rentify.com)
 
-Rentify is a letting agent built for the 21st century. It helps landlords to let and manage their properties, either themselves or using Rentify’s Property Specialists without the hassle and expense of an old-fashioned agent. I am currently involved with assisting with the development of new features and big fixes for the Rentify platform. Some of the software we integrated into our platform are Salesforce, Bugsnag, Jenkins and Gocardless. 
+Rentify is a letting agent built for the 21st century. It helps landlords to let and manage their properties, either themselves or using Rentify’s Property Specialists without the hassle and expense of an old-fashioned agent. I am currently involved with assisting with the development of new features and big fixes for the Rentify platform. Some of the tools use are Salesforce, Bugsnag, Jenkins and Gocardless.
 
 - Ruby on Rails
 - Javascript/Jquery
