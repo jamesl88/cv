@@ -104,14 +104,6 @@ My tasks were to study the rubymotion framework and help with design. I assisted
 
 A competitive 12-week course teaching the fundamentals of modern web development. Entry was highly selective and I was part of a cohort of seven students who were personally taught by Evgeny Shadchnev( partner at Forward Labs), and Enrique Comba Riepenhausen (software craftsman and co-founder at Path11). We were introduced to the basics of Unix, version control with GIT, Ruby as well as some exposure to Ruby frameworks such as Sinatra and Ruby on Rails.
 
-- Ruby on Rails, Sinatra
-- Version control using Git
-- Object oriented programming
-- SQL DB - Postgres, relational database
-- Strong Emphasis on using TDD. Rspec, Capybara
-- Learnt and implemented Agile development
-- Pair programming
-
 - Ruby on Rails
 - Sinatra
 - Version control (Git) 
@@ -120,7 +112,6 @@ A competitive 12-week course teaching the fundamentals of modern web development
 - BDD Rspec 
 - Capybara 
 - Agile development 
-
 
 ****
 
