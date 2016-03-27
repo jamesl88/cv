@@ -1,13 +1,19 @@
 ##JAMES LIEU
-###Junior Software Engineer - London
+### Software Engineer - London
 
-With a background in Illustration and Animation, I evolved my career to become a full-time web developer. I enjoy coding as it provides a consistently challenging environment as well as the chance to work with passionate and creative people. I also appreciate the opportunity it offers for me to design, create and constantly educate myself.
+With a background in Illustration and Animation, I evolved my career to become a full-time web developer, firstly by taking a leap of faith and enrolling in the web development bootcamp known as Makers Academy (makersacademy.com). I enjoy programming as it provides a challenging environment as well as the opportunity to work with passionate and creative people. I also appreciate the chance it offers for me to design, create and constantly educate myself.
 
-#### KEY SKILLS
-- Providing innovative ideas and solutions to problems
-- Being able to balance priorities and multiple projects
-- Having creativity and imagination
-- Adaptable and able to pick up new techniques
+#### Skills
+- Ruby
+- Ruby on Rails
+- Javascript
+- jQuery
+- HTML
+- CSS
+- GIT
+- Rspec (incl RR)
+- ReactJS (currently studying)
+- C# (currently studying)
 
 #### CODE EXAMPLES
 
@@ -28,13 +34,19 @@ With a background in Illustration and Animation, I evolved my career to become a
 **Software Engineer:** `January 2015 - Present`<br />
 [rentify.com](http://rentify.com)
 
-Rentify is a letting agent built for the 21st century. It helps landlords to let and manage their properties, either themselves or using Rentify’s Property Specialists without the hassle and expense of an old-fashioned agent. I am currently involved with assisting with the development of new features and big fixes for the Rentify platform. Some of the tools use are Salesforce, Bugsnag, Jenkins and Gocardless.
+Rentify is a letting agent built for the 21st century. It helps landlords to let and manage their properties, either themselves or using Rentify’s Property Specialists without the hassle and expense of an old-fashioned agent. I am currently involved with assisting with the development of new My primary responsibilities were to develop new features, code review and to deal with bug fixes for the Rentify platform. I worked on many features both front-end and back-end including landing pages, emails and interactive web forms. The Rentify platform is built on the Ruby on Rails framework, uses Rspec for BDD and Javascript/jQuery for our front-end development; we’ve also experimented with ReactJS. We employed many other tools such as JIRA, Bugsnag, Salesforce, Chef, CI with Jenkins and Slack, which enabled us to work in an agile way to release features quickly and efficiently.
 
 - Ruby on Rails
-- Javascript/Jquery
-- Haml/Sass
-- Version control (git)
+- Javascript
+- jquery
+- ReactJS
+- GIT
+- TDD
 - BDD
+- HTML
+- CSS
+- SASS
+- Bootstrap
 
 ****
 
@@ -44,16 +56,16 @@ Rentify is a letting agent built for the 21st century. It helps landlords to let
 
 [mgage.com](http://mgage.com)
 
-mGage is a global mobile engagement provider with more than 15 years of mobile CRM (mCRM) experience. I was involved in the development of a new project which was a new asynchronous API for operator billing, refunding and crediting. I assist by investigating errors and alarms for our live projects. I also maintain ‘Zaypay’ (www.zaypay.com) one of the company platforms which enables fast, flexible and secure mobile payments for digital content and virtual goods. 
+I was involved in the development of a new asynchronous API for operator billing, refunding and crediting. I assist by investigating errors and alarms for our live projects. This was built in Rails 3 and was my first experience with a relatively large project. I was also responsible for maintaining another rails project called  ‘Zaypay’ (www.zaypay.com): one of many of mGage’s platforms that enables fast, flexible and secure mobile payments for digital content and virtual goods. This was a legacy project built in Rails 2.
 
-- Ruby on Rails
-- Javascript/Jquery
-- Html/CSS
-- Version control (git)
-- BDD (Rspec)
-- Pair programming
-- SSH
-- Postgresql
+- Ruby on Rails 
+- Javascript 
+- jQuery 
+- Version control (git) 
+- TDD 
+- BDD 
+- HTML5 & CSS3 
+- Bootstrap 
 
 ****
 
@@ -61,14 +73,14 @@ mGage is a global mobile engagement provider with more than 15 years of mobile C
 **Creative / Junior Ruby Developer:** `November 2013 - February 2014`<br />
 [loyaltylion.com](http://loyaltylion.com)
 
-LoyaltyLion is a social loyalty framework that gives ecommerce stores innovative ways to engage and retain customers. Traditional loyalty programs are unimaginative and outdated - LoyaltyLion is redefining loyalty online. I was responsible for extensive testing using rspec and capybara, creating an email-template, graphic design such as designing icons, Christmas e-card, banners and flyers for print. I also helped with creating and animating slides for a presentation using keynote as well as designing the content. 
+I was responsible for extensive testing using rspec and capybara, creating email-templates, graphic design features such as designing icons, Christmas e-card, banners and flyers for print. I also helped with creating and animating slides for a presentation using keynote as well as designing the content.
 
 - Ruby on Rails
 - Version control (git)
 - Test driven development
 - HTML5 & CSS
-- Video editing - (Adobe After effects)
-- Graphic design - (Adobe Illustrator)
+- Adobe After effects
+- Adobe Illustrator
 - Keynote
 
 ****
@@ -77,7 +89,7 @@ LoyaltyLion is a social loyalty framework that gives ecommerce stores innovative
 **Creative / Developer:** `September 2013 - November 2013`<br />
 [psyt.co.uk](http://psyt.co.uk)
   
-PSYT provides accurate, scalable, real-time measurement techniques that reveal previously undiscoverable insights. My tasks were to study the rubymotion framework and help with design. I assisted with writing the html and css of the landing page, then learned to use proto.io to create our prototype app for mobile devices.
+My tasks were to study the rubymotion framework and help with design. I assisted with writing the HTML and CSS of the psyt.co.uk and then used proto.io to create our prototype app for mobile devices.
 
 - RubyMotion
 - HTML5 & CSS
@@ -90,7 +102,7 @@ PSYT provides accurate, scalable, real-time measurement techniques that reveal p
 **Web Development Student:** `May 2013 - August 2013`<br />
 [makersacademy.com](http://makersacademy.com)
 
-Makers Academy is a highly selective, 12 week, full-time course (with a 4 week part-time pre-course) in web development based in London's Silicon Roundabout. Entry was highly selective and I dedicated my time to learning everything necessary for becoming a top candidate for a junior web development role. I was part of a cohort of seven students and we were personally taught by Evgeny Shadchnev, partner at Forward Labs and Enrique Comba Riepenhausen, software craftsman and co-founder at Path11.
+A competitive 12-week course teaching the fundamentals of modern web development. Entry was highly selective and I was part of a cohort of seven students who were personally taught by Evgeny Shadchnev( partner at Forward Labs), and Enrique Comba Riepenhausen (software craftsman and co-founder at Path11). We were introduced to the basics of Unix, version control with GIT, Ruby as well as some exposure to Ruby frameworks such as Sinatra and Ruby on Rails.
 
 - Ruby on Rails, Sinatra
 - Version control using Git
@@ -100,6 +112,16 @@ Makers Academy is a highly selective, 12 week, full-time course (with a 4 week p
 - Learnt and implemented Agile development
 - Pair programming
 
+- Ruby on Rails
+- Sinatra
+- Version control (Git) 
+- PostgreSQL 
+- TDD 
+- BDD Rspec 
+- Capybara 
+- Agile development 
+
+
 ****
 
 ##### SHARKIUS GAMES
@@ -107,7 +129,7 @@ Makers Academy is a highly selective, 12 week, full-time course (with a 4 week p
 **Art Project Manager:** `May 2011 - October 2012`<br />
 [sharkius.com](http://sharkius.com)
 
-Sharkius Games creates games designed for friends to play together on social and mobile platforms. Our projects also include partnering with the world's leading brands, such as Me to You, to help their customers enjoy the essence of the brand online on a daily basis. We were in a small team of six. My role consists of organising and assigning work to the illustrators and interns working on the art assets. Furthermore, exporting the art so that it is positioned correctly so it is ready to be uploaded. Finally, using the Facebook fan page to help market the game and promotions. 
+Sharkius is a startup company which specialises in creating Facebook games. I was in charge of organising and assigning work to the illustrators and interns working on the art assets as well as using the Facebook fan page to help market the game and promotions.
 
 - Adobe Flash
 - Adobe Illustrator
@@ -118,13 +140,21 @@ Sharkius Games creates games designed for friends to play together on social and
 
 ## OTHER
 
-
 #### EDUCATION
 
 - `2013` Makers Academy : Web Development
 - `2010`, London College of Communication : BA Animation
 - `2007`, London College of Communication : FDA Animation
 - `2006`, Ravensbourne College of design and Communication : ABC Foundation Art & Design
+
+
+#### KEY SKILLS
+- Creativity and imagination
+- Providing innovative ideas and solutions to problems
+- Being able to balance priorities and multiple projects
+- Adaptability, able to pick up new techniques
+- Well-developed communication skills
+- Excellent team-working skills honed in the work place
 
 #### INTERESTS
 - Keen reader of classic and fantasy novels
@@ -139,4 +169,3 @@ I'm `James Lieu`, follow me on [Github](http://github.com/jamesl88), [LinkedIn](
 | :shipit:             | http://jameslieu.co.uk    |
 | :b:                  | http://jamesl88.github.io |
 | :envelope:           | info@jameslieu.co.uk      |
-
