@@ -19,13 +19,14 @@ With a background in Illustration and Animation, I evolved my career to become a
 
 |  Project  | Description |  Website  |
 | :-------: | ----------- | :-------: |
+[Task list](https://github.com/jamesl88/schmoogle) | My very own doodle planner project. Built using Ruby on Rails with ReactJS | [Link](http://schmoogle.herokuapp.com/)
 [Task list](https://github.com/jamesl88/task_list) | Simple task list created using jQuery & Ajax | [Link](http://task-list-24601.herokuapp.com/)
 [Code player](https://github.com/jamesl88/jquery-code-player) | Created a code player using jquery inspired by jsfiddle.net. | [Link](http://jameslieu.co.uk/projects/jquery-code-player/index.html)
 [Weather forecast](https://github.com/jamesl88/weather-forecast) | A simple page which displays the weather forecast of the city you enter. | [Link](http://jameslieu.co.uk/projects/weather-forecast/index.php)
 [Rental yield](https://github.com/jamesl88/rental_yield_calculator) | Calculate The total yearly yield of rent for properties. | [Link](http://rental-yield-24601.herokuapp.com/)
 [Tip calculator](https://github.com/jamesl88/tip_calculator) | Calculate how much the tip will cost for your meal. | [Link](http://jameslieu.co.uk/projects/tip-calculator/index.html)
 [Sudoku online](https://github.com/jamesl88/sudoku_online) | A Sinatra web app that mimics the basic functionality of http://sudoku9x9.com/. | [Link](http://sudoku-online-24601.herokuapp.com/)
-[GIVR](https://github.com/jamesl88/antisocialnetwork) | Rehab for social network addicts – give to charity on each relapse. | [Link](http://givr.org.uk/)
+[GIVR](https://github.com/jamesl88/antisocialnetwork) | Rehab for social network addicts – give to charity on each relapse. | Link
 
 
 ## PROFESSIONAL CAREER
@@ -58,14 +59,14 @@ Rentify is a letting agent built for the 21st century. It helps landlords to let
 
 I was involved in the development of a new asynchronous API for operator billing, refunding and crediting. I assist by investigating errors and alarms for our live projects. This was built in Rails 3 and was my first experience with a relatively large project. I was also responsible for maintaining another rails project called  ‘Zaypay’ (www.zaypay.com): one of many of mGage’s platforms that enables fast, flexible and secure mobile payments for digital content and virtual goods. This was a legacy project built in Rails 2.
 
-- Ruby on Rails 
-- Javascript 
-- jQuery 
-- Version control (git) 
-- TDD 
-- BDD 
-- HTML5 & CSS3 
-- Bootstrap 
+- Ruby on Rails
+- Javascript
+- jQuery
+- Version control (git)
+- TDD
+- BDD
+- HTML5 & CSS3
+- Bootstrap
 
 ****
 
@@ -88,7 +89,7 @@ I was responsible for extensive testing using rspec and capybara, creating email
 ##### PSYT - PSYCHOLOGICAL TECHNOLOGIES
 **Creative / Developer:** `September 2013 - November 2013`<br />
 [psyt.co.uk](http://psyt.co.uk)
-  
+
 My tasks were to study the rubymotion framework and help with design. I assisted with writing the HTML and CSS of the psyt.co.uk and then used proto.io to create our prototype app for mobile devices.
 
 - RubyMotion
@@ -106,12 +107,12 @@ A competitive 12-week course teaching the fundamentals of modern web development
 
 - Ruby on Rails
 - Sinatra
-- Version control (Git) 
-- PostgreSQL 
-- TDD 
-- BDD Rspec 
-- Capybara 
-- Agile development 
+- Version control (Git)
+- PostgreSQL
+- TDD
+- BDD Rspec
+- Capybara
+- Agile development
 
 ****
 
