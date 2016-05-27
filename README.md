@@ -35,7 +35,7 @@ With a background in Illustration and Animation, I evolved my career to become a
 **Software Engineer:** `January 2015 - Present`<br />
 [rentify.com](http://rentify.com)
 
-Rentify is a letting agent built for the 21st century. It helps landlords to let and manage their properties, either themselves or using Rentify’s Property Specialists without the hassle and expense of an old-fashioned agent. I am currently involved with assisting with the development of new My primary responsibilities were to develop new features, code review and to deal with bug fixes for the Rentify platform. I worked on many features both front-end and back-end including landing pages, emails and interactive web forms. The Rentify platform is built on the Ruby on Rails framework, uses Rspec for BDD and Javascript/jQuery for our front-end development; we’ve also experimented with ReactJS. We employed many other tools such as JIRA, Bugsnag, Salesforce, Chef, CI with Jenkins and Slack, which enabled us to work in an agile way to release features quickly and efficiently.
+My primary responsibilities were to develop new features, code review and to deal with bug fixes for the Rentify platform. I worked on many features both front-end and back-end including landing pages, emails and interactive web forms. The Rentify platform is built on the Ruby on Rails framework, uses Rspec for BDD and Javascript/jQuery for our front-end development; we’ve also experimented with ReactJS. We employed many other tools such as JIRA, Bugsnag, Salesforce, Chef, CI with Jenkins and Slack, which enabled us to work in an agile way to release features quickly and efficiently.
 
 - Ruby on Rails
 - Javascript
@@ -57,7 +57,7 @@ Rentify is a letting agent built for the 21st century. It helps landlords to let
 
 [mgage.com](http://mgage.com)
 
-I was involved in the development of a new asynchronous API for operator billing, refunding and crediting. I assist by investigating errors and alarms for our live projects. This was built in Rails 3 and was my first experience with a relatively large project. I was also responsible for maintaining another rails project called  ‘Zaypay’ (www.zaypay.com): one of many of mGage’s platforms that enables fast, flexible and secure mobile payments for digital content and virtual goods. This was a legacy project built in Rails 2.
+I was involved in the development of a new asynchronous API for operator billing, refunding and crediting. I assist by investigating errors and alarms for our live projects. This was built in Rails 3 and was my first experience with a relatively large project. I was also responsible for maintaining another rails project called ‘Zaypay’ (www.zaypay.com): one of many of mGage’s platforms that enables fast, flexible and secure mobile payments for digital content and virtual goods. This was a legacy project built in Rails 2.
 
 - Ruby on Rails
 - Javascript
@@ -77,8 +77,6 @@ I was involved in the development of a new asynchronous API for operator billing
 I was responsible for extensive testing using rspec and capybara, creating email-templates, graphic design features such as designing icons, Christmas e-card, banners and flyers for print. I also helped with creating and animating slides for a presentation using keynote as well as designing the content.
 
 - Ruby on Rails
-- Version control (git)
-- Test driven development
 - HTML5 & CSS
 - Adobe After effects
 - Adobe Illustrator
